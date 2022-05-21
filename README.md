@@ -1,0 +1,2 @@
+# typescript
+all typescript code
