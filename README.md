@@ -1,2 +1,3 @@
-# typescript
+# Angular
+
 all typescript code
